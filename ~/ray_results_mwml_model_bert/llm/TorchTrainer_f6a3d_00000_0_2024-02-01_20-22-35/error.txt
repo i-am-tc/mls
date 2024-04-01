@@ -1,0 +1,13 @@
+Failure # 1 (occurred at 2024-02-01_20-22-57)
+[36mray::_Inner.train()[39m (pid=220916, ip=172.24.28.118, actor_id=3ffc5d4ed1f479f3167995ae01000000, repr=TorchTrainer)
+  File "/home/tc/miniconda3/envs/mls/lib/python3.10/site-packages/ray/tune/trainable/trainable.py", line 342, in train
+    raise skipped from exception_cause(skipped)
+  File "/home/tc/miniconda3/envs/mls/lib/python3.10/site-packages/ray/train/_internal/utils.py", line 43, in check_for_failure
+    ray.get(object_ref)
+ray.exceptions.RayTaskError(AttributeError): [36mray::_RayTrainWorker__execute.get_next()[39m (pid=220972, ip=172.24.28.118, actor_id=e1362383b41d8b2ba58735d001000000, repr=<ray.train._internal.worker_group.RayTrainWorker object at 0x7fd2830fec50>)
+  File "/home/tc/miniconda3/envs/mls/lib/python3.10/site-packages/ray/train/_internal/worker_group.py", line 33, in __execute
+    raise skipped from exception_cause(skipped)
+  File "/home/tc/miniconda3/envs/mls/lib/python3.10/site-packages/ray/train/_internal/utils.py", line 118, in discard_return_wrapper
+    train_func(*args, **kwargs)
+  File "/tmp/ipykernel_201224/2161218923.py", line 70, in train_loop_per_worker
+AttributeError: module 'ray.train.session' has no attribute 'get_dataset_shared'
