@@ -1,0 +1,3241 @@
+Processing Results:
+
+File: Simple64_2021-12-22-03-55-31.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([1, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 320.0
+  mean: 0.03239433900832221
+  std: 0.425309252264794
+  num_zeros: 1024013
+  num_non_zeros: 32583
+  total_elements: 1056596
+  sparsity: 0.9691622909797122
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([1, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851179913119664
+  num_zeros: 11429
+  num_non_zeros: 17
+  total_elements: 11446
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-11-43.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 230.0
+  mean: 0.032241962878976765
+  std: 0.33249072670632684
+  num_zeros: 2047997
+  num_non_zeros: 65195
+  total_elements: 2113192
+  sparsity: 0.9691485676644621
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-01-28-49.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([6, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 135.0
+  mean: 0.03236402641862468
+  std: 0.3162503171978038
+  num_zeros: 6143578
+  num_non_zeros: 195998
+  total_elements: 6339576
+  sparsity: 0.969083421351838
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([6, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510397147198054
+  num_zeros: 68574
+  num_non_zeros: 102
+  total_elements: 68676
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-44-10.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 80.0
+  mean: 0.03209431893559632
+  std: 0.2908620568049995
+  num_zeros: 2048003
+  num_non_zeros: 65189
+  total_elements: 2113192
+  sparsity: 0.9691514069710656
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-12-07-13.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 135.0
+  mean: 0.032330385964989446
+  std: 0.308226745564155
+  num_zeros: 8191432
+  num_non_zeros: 261336
+  total_elements: 8452768
+  sparsity: 0.969082790394815
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851032705201465
+  num_zeros: 91432
+  num_non_zeros: 136
+  total_elements: 91568
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-13-20-03.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 175.0
+  mean: 0.032279535742278036
+  std: 0.312982171592512
+  num_zeros: 3071868
+  num_non_zeros: 97920
+  total_elements: 3169788
+  sparsity: 0.9691083441542463
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-14-22.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 285.0
+  mean: 0.0323380260857275
+  std: 0.3649853885919542
+  num_zeros: 2047987
+  num_non_zeros: 65205
+  total_elements: 2113192
+  sparsity: 0.9691438354867896
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-13-31-35.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 80.0
+  mean: 0.03231274250901512
+  std: 0.30456400140891
+  num_zeros: 4095717
+  num_non_zeros: 130667
+  total_elements: 4226384
+  sparsity: 0.9690830270036986
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-12-09-44.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 58.0
+  mean: 0.03219739938123945
+  std: 0.29631295525791784
+  num_zeros: 5119884
+  num_non_zeros: 163096
+  total_elements: 5282980
+  sparsity: 0.9691280300133637
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510453223615036
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-13-23-13.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 56.0
+  mean: 0.032077756313742746
+  std: 0.28766974587460276
+  num_zeros: 2048008
+  num_non_zeros: 65184
+  total_elements: 2113192
+  sparsity: 0.9691537730599018
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-01-31-59.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 245.0
+  mean: 0.032292343181451424
+  std: 0.33137733888752
+  num_zeros: 3071929
+  num_non_zeros: 97859
+  total_elements: 3169788
+  sparsity: 0.9691275883434476
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-14-09-33-00.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 145.0
+  mean: 0.032255563286400384
+  std: 0.3218078160467129
+  num_zeros: 3071991
+  num_non_zeros: 97797
+  total_elements: 3169788
+  sparsity: 0.9691471480111604
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174791
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-14-09-20-58.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 305.0
+  mean: 0.032322903631295405
+  std: 0.3693080406113094
+  num_zeros: 8192025
+  num_non_zeros: 260743
+  total_elements: 8452768
+  sparsity: 0.9691529449288091
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851032705201468
+  num_zeros: 91432
+  num_non_zeros: 136
+  total_elements: 91568
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-15-08-13-39.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 175.0
+  mean: 0.03228843805111987
+  std: 0.3194110758551974
+  num_zeros: 4095865
+  num_non_zeros: 130519
+  total_elements: 4226384
+  sparsity: 0.9691180451184748
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-13-33-16.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([7, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 105.0
+  mean: 0.03238144533671508
+  std: 0.3082130850777226
+  num_zeros: 7167314
+  num_non_zeros: 228858
+  total_elements: 7396172
+  sparsity: 0.9690572366353838
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([7, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510357092760565
+  num_zeros: 80003
+  num_non_zeros: 119
+  total_elements: 80122
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-22-04-07-18.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 165.0
+  mean: 0.03227546093653419
+  std: 0.3165358913484308
+  num_zeros: 4095869
+  num_non_zeros: 130515
+  total_elements: 4226384
+  sparsity: 0.9691189915540093
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510537338706734
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-17-12-49-33.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 190.0
+  mean: 0.032393808424826594
+  std: 0.3303437177138445
+  num_zeros: 4095716
+  num_non_zeros: 130668
+  total_elements: 4226384
+  sparsity: 0.969082790394815
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-32-08.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 190.0
+  mean: 0.03232367142899518
+  std: 0.3201247626543952
+  num_zeros: 4095800
+  num_non_zeros: 130584
+  total_elements: 4226384
+  sparsity: 0.9691026655410393
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870537
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-03-03-31-59.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 205.0
+  mean: 0.032260891589666565
+  std: 0.3268432799846927
+  num_zeros: 2047985
+  num_non_zeros: 65207
+  total_elements: 2113192
+  sparsity: 0.9691428890512551
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-22-04-00-23.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 145.0
+  mean: 0.032303301686365235
+  std: 0.3152277880330294
+  num_zeros: 5119750
+  num_non_zeros: 163230
+  total_elements: 5282980
+  sparsity: 0.9691026655410393
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510453223615036
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-01-30-22.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 145.0
+  mean: 0.032339549413684845
+  std: 0.31638928665966587
+  num_zeros: 4095753
+  num_non_zeros: 130631
+  total_elements: 4226384
+  sparsity: 0.9690915449235091
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-25-18.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 120.0
+  mean: 0.03223735490653051
+  std: 0.3039527990468341
+  num_zeros: 3071917
+  num_non_zeros: 97871
+  total_elements: 3169788
+  sparsity: 0.9691238026013096
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-14-09-36-56.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 230.0
+  mean: 0.03221120373239839
+  std: 0.33191180573886836
+  num_zeros: 2048051
+  num_non_zeros: 65141
+  total_elements: 2113192
+  sparsity: 0.9691741214238934
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-12-11-28.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 100.0
+  mean: 0.03233084327519478
+  std: 0.3073824944876858
+  num_zeros: 4095716
+  num_non_zeros: 130668
+  total_elements: 4226384
+  sparsity: 0.969082790394815
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870537
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-15-08-07-36.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 240.0
+  mean: 0.03233901505240584
+  std: 0.3394317654075294
+  num_zeros: 4095839
+  num_non_zeros: 130545
+  total_elements: 4226384
+  sparsity: 0.9691118932875006
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-13-29-42.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 110.0
+  mean: 0.03233304770944742
+  std: 0.31062361612094896
+  num_zeros: 5119684
+  num_non_zeros: 163296
+  total_elements: 5282980
+  sparsity: 0.969090172591984
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510453223615036
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-12-05-26.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([7, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 140.0
+  mean: 0.03237937235505909
+  std: 0.3119836006615154
+  num_zeros: 7167386
+  num_non_zeros: 228786
+  total_elements: 7396172
+  sparsity: 0.9690669714008814
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([7, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385103570927606
+  num_zeros: 80003
+  num_non_zeros: 119
+  total_elements: 80122
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-19-37.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 275.0
+  mean: 0.03234717012978701
+  std: 0.34393293276847303
+  num_zeros: 4095854
+  num_non_zeros: 130530
+  total_elements: 4226384
+  sparsity: 0.969115442420755
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-14-08-33.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 125.0
+  mean: 0.03222364934973292
+  std: 0.30160090876305284
+  num_zeros: 4095884
+  num_non_zeros: 130500
+  total_elements: 4226384
+  sparsity: 0.9691225406872637
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870434
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-03-03-34-51.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 175.0
+  mean: 0.03231687180584523
+  std: 0.323567106499208
+  num_zeros: 4095842
+  num_non_zeros: 130542
+  total_elements: 4226384
+  sparsity: 0.9691126031141515
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-33-17.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 190.0
+  mean: 0.03233099090552477
+  std: 0.31934558543631675
+  num_zeros: 3071825
+  num_non_zeros: 97963
+  total_elements: 3169788
+  sparsity: 0.9690947785782519
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-17-12-46-23.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 100.0
+  mean: 0.032320582010587684
+  std: 0.3073984534492096
+  num_zeros: 4095734
+  num_non_zeros: 130650
+  total_elements: 4226384
+  sparsity: 0.9690870493547202
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-11-58-14.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 57.0
+  mean: 0.032255819018263646
+  std: 0.29918190611745143
+  num_zeros: 5119743
+  num_non_zeros: 163237
+  total_elements: 5282980
+  sparsity: 0.969101340531291
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510453223615036
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-22-04-10-56.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 195.0
+  mean: 0.03226341540946598
+  std: 0.3161245319453388
+  num_zeros: 3071918
+  num_non_zeros: 97870
+  total_elements: 3169788
+  sparsity: 0.9691241180798211
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-01-33-38.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 125.0
+  mean: 0.03230322879651307
+  std: 0.30794313335524265
+  num_zeros: 3071828
+  num_non_zeros: 97960
+  total_elements: 3169788
+  sparsity: 0.9690957250137864
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-15-08-05-35.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 240.0
+  mean: 0.03236239622826788
+  std: 0.32723338146643344
+  num_zeros: 5119696
+  num_non_zeros: 163284
+  total_elements: 5282980
+  sparsity: 0.9690924440372668
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851045322361525
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-03-03-39-22.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 180.0
+  mean: 0.03228329055569027
+  std: 0.32038549960229656
+  num_zeros: 3071920
+  num_non_zeros: 97868
+  total_elements: 3169788
+  sparsity: 0.9691247490368441
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174928
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-22-03-57-06.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 57.0
+  mean: 0.03217320811296963
+  std: 0.29506683262461353
+  num_zeros: 3071967
+  num_non_zeros: 97821
+  total_elements: 3169788
+  sparsity: 0.9691395765268844
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174928
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-17-12-47-59.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 230.0
+  mean: 0.0322951180938472
+  std: 0.32966312404902265
+  num_zeros: 3071920
+  num_non_zeros: 97868
+  total_elements: 3169788
+  sparsity: 0.9691247490368441
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-09-14-12.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 75.0
+  mean: 0.032245486770091224
+  std: 0.3000923013258858
+  num_zeros: 3071873
+  num_non_zeros: 97915
+  total_elements: 3169788
+  sparsity: 0.9691099215468038
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-15-08-09-32.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 58.0
+  mean: 0.03220750125445061
+  std: 0.29701712334264463
+  num_zeros: 4095897
+  num_non_zeros: 130487
+  total_elements: 4226384
+  sparsity: 0.9691256166027508
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-14-09-29-12.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 295.0
+  mean: 0.03227512737977581
+  std: 0.3566172168112507
+  num_zeros: 8192092
+  num_non_zeros: 260676
+  total_elements: 8452768
+  sparsity: 0.9691608713264105
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510327052014716
+  num_zeros: 91432
+  num_non_zeros: 136
+  total_elements: 91568
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-09-19-24.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 145.0
+  mean: 0.032314586022926944
+  std: 0.3114948126240821
+  num_zeros: 3071827
+  num_non_zeros: 97961
+  total_elements: 3169788
+  sparsity: 0.969095409535275
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-40-58.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 175.0
+  mean: 0.03229260102212621
+  std: 0.316592172596021
+  num_zeros: 4095830
+  num_non_zeros: 130554
+  total_elements: 4226384
+  sparsity: 0.969109763807548
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-13-21-32.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 130.0
+  mean: 0.032292484521576494
+  std: 0.3054770730234594
+  num_zeros: 4095718
+  num_non_zeros: 130666
+  total_elements: 4226384
+  sparsity: 0.9690832636125823
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870546
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-13-33-40.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 195.0
+  mean: 0.032335723083197224
+  std: 0.32098327574155194
+  num_zeros: 3071825
+  num_non_zeros: 97963
+  total_elements: 3169788
+  sparsity: 0.9690947785782519
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-27-30.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 270.0
+  mean: 0.0323280885043228
+  std: 0.34939223304054684
+  num_zeros: 3071929
+  num_non_zeros: 97859
+  total_elements: 3169788
+  sparsity: 0.9691275883434476
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174928
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-42-30.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 195.0
+  mean: 0.03231247008717184
+  std: 0.3204060002966228
+  num_zeros: 5119772
+  num_non_zeros: 163208
+  total_elements: 5282980
+  sparsity: 0.969106829857391
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510453223615036
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-22-04-03-52.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 155.0
+  mean: 0.03231135945045387
+  std: 0.311268442903158
+  num_zeros: 5119736
+  num_non_zeros: 163244
+  total_elements: 5282980
+  sparsity: 0.9691000155215428
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851045322361525
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-13-09-01-09.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 425.0
+  mean: 0.032367602204472865
+  std: 0.4323490416846758
+  num_zeros: 4096066
+  num_non_zeros: 130318
+  total_elements: 4226384
+  sparsity: 0.9691656035040829
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870552
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-09-21-04.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 185.0
+  mean: 0.03233477664766273
+  std: 0.31949433902689
+  num_zeros: 3071823
+  num_non_zeros: 97965
+  total_elements: 3169788
+  sparsity: 0.9690941476212289
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-37-50.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([6, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 110.0
+  mean: 0.032311720110432846
+  std: 0.3055133901997031
+  num_zeros: 6143611
+  num_non_zeros: 195965
+  total_elements: 6339576
+  sparsity: 0.9690886267472777
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([6, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510397147198054
+  num_zeros: 68574
+  num_non_zeros: 102
+  total_elements: 68676
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-13-24-47.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 125.0
+  mean: 0.03235874739582185
+  std: 0.3097643180188371
+  num_zeros: 4095662
+  num_non_zeros: 130722
+  total_elements: 4226384
+  sparsity: 0.9690700135150995
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870546
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-09-06-31-45.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 240.0
+  mean: 0.0322456634336242
+  std: 0.3175928869084668
+  num_zeros: 4095899
+  num_non_zeros: 130485
+  total_elements: 4226384
+  sparsity: 0.969126089820518
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-13-26-12.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 125.0
+  mean: 0.032242309277921426
+  std: 0.3038702862954704
+  num_zeros: 3071884
+  num_non_zeros: 97904
+  total_elements: 3169788
+  sparsity: 0.9691133918104302
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-16-45.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 185.0
+  mean: 0.03224906114548544
+  std: 0.32114455690731064
+  num_zeros: 2047990
+  num_non_zeros: 65202
+  total_elements: 2113192
+  sparsity: 0.9691452551400914
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-13-08-48-02.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([20, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 185.0
+  mean: 0.03237481512832364
+  std: 0.31685355400152587
+  num_zeros: 20478488
+  num_non_zeros: 653432
+  total_elements: 21131920
+  sparsity: 0.9690784367913564
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([20, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851020088165305
+  num_zeros: 228580
+  num_non_zeros: 340
+  total_elements: 228920
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-08-15.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([1, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 245.0
+  mean: 0.03231767773002852
+  std: 0.37520927310152297
+  num_zeros: 1024019
+  num_non_zeros: 32577
+  total_elements: 1056596
+  sparsity: 0.9691679695929192
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([1, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851179913119664
+  num_zeros: 11429
+  num_non_zeros: 17
+  total_elements: 11446
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-22-04-02-05.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 215.0
+  mean: 0.032292437684714806
+  std: 0.31936452389200565
+  num_zeros: 5119780
+  num_non_zeros: 163200
+  total_elements: 5282980
+  sparsity: 0.9691083441542463
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510453223615036
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-29-46.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 210.0
+  mean: 0.03223628426576982
+  std: 0.3262210950664181
+  num_zeros: 2047997
+  num_non_zeros: 65195
+  total_elements: 2113192
+  sparsity: 0.9691485676644621
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-17-12-43-18.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 125.0
+  mean: 0.032277959586867605
+  std: 0.3080000698006968
+  num_zeros: 3071879
+  num_non_zeros: 97909
+  total_elements: 3169788
+  sparsity: 0.9691118144178728
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174928
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-47-43.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 135.0
+  mean: 0.03226284420706952
+  std: 0.30600140231336886
+  num_zeros: 4095848
+  num_non_zeros: 130536
+  total_elements: 4226384
+  sparsity: 0.9691140227674532
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-14-12-57.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 80.0
+  mean: 0.03221376262134705
+  std: 0.2985818347578187
+  num_zeros: 3071914
+  num_non_zeros: 97874
+  total_elements: 3169788
+  sparsity: 0.9691228561657751
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174803
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-45-45.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 155.0
+  mean: 0.03227385712907109
+  std: 0.3097261851973278
+  num_zeros: 3071871
+  num_non_zeros: 97917
+  total_elements: 3169788
+  sparsity: 0.9691092905897808
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-09-06-34-07.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 140.0
+  mean: 0.032202685804295424
+  std: 0.307907830891196
+  num_zeros: 2047994
+  num_non_zeros: 65198
+  total_elements: 2113192
+  sparsity: 0.9691471480111604
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-13-27-56.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 175.0
+  mean: 0.03231755036571269
+  std: 0.31304906562815193
+  num_zeros: 5119719
+  num_non_zeros: 163261
+  total_elements: 5282980
+  sparsity: 0.9690967976407255
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510453223615036
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-22-04-09-01.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 135.0
+  mean: 0.032221971790250964
+  std: 0.30434373685761384
+  num_zeros: 4095935
+  num_non_zeros: 130449
+  total_elements: 4226384
+  sparsity: 0.9691346077403283
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-13-08-51-38.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([7, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 255.0
+  mean: 0.03229762155209236
+  std: 0.32305310472363274
+  num_zeros: 7167753
+  num_non_zeros: 228419
+  total_elements: 7396172
+  sparsity: 0.969116591663904
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([7, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851035709276047
+  num_zeros: 80003
+  num_non_zeros: 119
+  total_elements: 80122
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-09-06-39-12.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 300.0
+  mean: 0.03232871946134579
+  std: 0.351512156218227
+  num_zeros: 3071923
+  num_non_zeros: 97865
+  total_elements: 3169788
+  sparsity: 0.9691256954723786
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174928
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-09-15-51.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 165.0
+  mean: 0.032303449636995725
+  std: 0.31374860799428933
+  num_zeros: 3071863
+  num_non_zeros: 97925
+  total_elements: 3169788
+  sparsity: 0.9691067667616888
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-36-19.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 270.0
+  mean: 0.03228802273336272
+  std: 0.3330834680639581
+  num_zeros: 3071916
+  num_non_zeros: 97872
+  total_elements: 3169788
+  sparsity: 0.9691234871227982
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-22-04-05-23.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 190.0
+  mean: 0.032266916601818164
+  std: 0.3158950650363718
+  num_zeros: 3071882
+  num_non_zeros: 97906
+  total_elements: 3169788
+  sparsity: 0.9691127608534073
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-22-03-58-45.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 105.0
+  mean: 0.03232921293142379
+  std: 0.30781353077638207
+  num_zeros: 5119611
+  num_non_zeros: 163369
+  total_elements: 5282980
+  sparsity: 0.9690763546331805
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851045322361525
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-03-03-37-16.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 325.0
+  mean: 0.03232682659027681
+  std: 0.35459337113939926
+  num_zeros: 3071923
+  num_non_zeros: 97865
+  total_elements: 3169788
+  sparsity: 0.9691256954723786
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174928
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-13-36-28.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 160.0
+  mean: 0.032417298454587025
+  std: 0.31885817898171454
+  num_zeros: 8191206
+  num_non_zeros: 261562
+  total_elements: 8452768
+  sparsity: 0.9690560535909657
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851032705201477
+  num_zeros: 91432
+  num_non_zeros: 136
+  total_elements: 91568
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-14-09-25-38.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([9, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 175.0
+  mean: 0.03221697432046814
+  std: 0.30288023316661067
+  num_zeros: 9215839
+  num_non_zeros: 293525
+  total_elements: 9509364
+  sparsity: 0.9691330566376468
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([9, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510303687040996
+  num_zeros: 102861
+  num_non_zeros: 153
+  total_elements: 103014
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-19-09-17-45.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 190.0
+  mean: 0.032297518017433344
+  std: 0.31686565935413386
+  num_zeros: 3071861
+  num_non_zeros: 97927
+  total_elements: 3169788
+  sparsity: 0.9691061358046658
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-13-18-24.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 150.0
+  mean: 0.03229858161727705
+  std: 0.3152250338115708
+  num_zeros: 3071876
+  num_non_zeros: 97912
+  total_elements: 3169788
+  sparsity: 0.9691108679823383
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-15-08-11-34.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 145.0
+  mean: 0.032231119085544685
+  std: 0.30398604311938243
+  num_zeros: 4095891
+  num_non_zeros: 130493
+  total_elements: 4226384
+  sparsity: 0.969124196949449
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510537338705526
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-17-12-44-53.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 165.0
+  mean: 0.032311969843711486
+  std: 0.3207341169757659
+  num_zeros: 3071871
+  num_non_zeros: 97917
+  total_elements: 3169788
+  sparsity: 0.9691092905897808
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-13-39-33.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 95.0
+  mean: 0.03226566834656998
+  std: 0.30479158277301405
+  num_zeros: 4095851
+  num_non_zeros: 130533
+  total_elements: 4226384
+  sparsity: 0.9691147325941041
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870552
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-09-06-36-41.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 330.0
+  mean: 0.032343231472874635
+  std: 0.3620883852013049
+  num_zeros: 3071922
+  num_non_zeros: 97866
+  total_elements: 3169788
+  sparsity: 0.969125379993867
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174928
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-11-55-57.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 200.0
+  mean: 0.032278188002712926
+  std: 0.31135553441017716
+  num_zeros: 5119785
+  num_non_zeros: 163195
+  total_elements: 5282980
+  sparsity: 0.9691092905897808
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([5, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510453223615036
+  num_zeros: 57145
+  num_non_zeros: 85
+  total_elements: 57230
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-11-21-13-42-41.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 105.0
+  mean: 0.03241360076146437
+  std: 0.31094176320000394
+  num_zeros: 8191101
+  num_non_zeros: 261667
+  total_elements: 8452768
+  sparsity: 0.9690436316245755
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([8, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851032705201477
+  num_zeros: 91432
+  num_non_zeros: 136
+  total_elements: 91568
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-09-06-41-33.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 200.0
+  mean: 0.03226661436710111
+  std: 0.32827726163048443
+  num_zeros: 3071970
+  num_non_zeros: 97818
+  total_elements: 3169788
+  sparsity: 0.9691405229624189
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174928
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-18-01-27-09.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 160.0
+  mean: 0.03225133151573125
+  std: 0.3080430052698921
+  num_zeros: 4095888
+  num_non_zeros: 130496
+  total_elements: 4226384
+  sparsity: 0.9691234871227982
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.038510537338705526
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-39-25.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 165.0
+  mean: 0.03226446391117264
+  std: 0.3081283261452423
+  num_zeros: 4095843
+  num_non_zeros: 130541
+  total_elements: 4226384
+  sparsity: 0.9691128397230351
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([4, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851053733870674
+  num_zeros: 45716
+  num_non_zeros: 68
+  total_elements: 45784
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-28-07-34-46.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 195.0
+  mean: 0.03230354427502456
+  std: 0.31942886524750774
+  num_zeros: 3071838
+  num_non_zeros: 97950
+  total_elements: 3169788
+  sparsity: 0.9690988797989014
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-03-03-29-30.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 255.0
+  mean: 0.03229338586805816
+  std: 0.3315740397487586
+  num_zeros: 3071918
+  num_non_zeros: 97870
+  total_elements: 3169788
+  sparsity: 0.9691241180798211
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([3, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.03851067753174963
+  num_zeros: 34287
+  num_non_zeros: 51
+  total_elements: 34338
+  sparsity: 0.9985147649834003
+
+File: Simple64_2021-12-06-06-23-03.pt
+
+Item 0:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 1056596])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 185.0
+  mean: 0.03222066807945074
+  std: 0.3189072065860987
+  num_zeros: 2047996
+  num_non_zeros: 65196
+  total_elements: 2113192
+  sparsity: 0.9691480944466948
+
+Item 1:
+Info:
+  type: <class 'torch.Tensor'>
+  device: cpu
+  dtype: torch.float64
+  shape: torch.Size([2, 11446])
+  requires_grad: False
+Statistics:
+  min: 0.0
+  max: 1.0
+  mean: 0.0014852350165996855
+  std: 0.0385109579224192
+  num_zeros: 22858
+  num_non_zeros: 34
+  total_elements: 22892
+  sparsity: 0.9985147649834003
